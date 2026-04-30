@@ -1,4 +1,6 @@
-## Hi, I'm Abdul 
+## Hello there 👋🏽
+
+My name is Abdul. I am currently a student studying CS.
 
 
 <!--
