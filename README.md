@@ -1,4 +1,4 @@
-# Hey, I'm Abdul 👋
+# Hello, I'm Abdul 
 > CS @ UMKC
 > 
 > From datapipline to deployed AI apps - building end to end!
