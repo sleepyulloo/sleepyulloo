@@ -1,7 +1,7 @@
 # Hello, I'm Abdul 
 > CS @ UMKC
 > 
-> From datapipline to deployed AI apps - building end to end!
+> From datapiplines to deployed AI apps - building end to end!
  
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/a-r-mohammed)
