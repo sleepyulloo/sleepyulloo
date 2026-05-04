@@ -57,7 +57,7 @@
 ---
 
 ### Quote
-> *"1% better each day."*
+> *"RESTART?"*
 ---
 
 <br clear="both">
