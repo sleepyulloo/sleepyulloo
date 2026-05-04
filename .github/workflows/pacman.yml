@@ -1,11 +1,12 @@
 name: Generate Pacman
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *
   workflow_dispatch:
-
+  push:             
+    branches: [main]  
 permissions:
-  contents: write   # ← THIS is what was missing
+  contents: write  
 
 jobs:
   build:
