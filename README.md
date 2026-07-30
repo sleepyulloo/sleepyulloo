@@ -50,10 +50,11 @@
 ---
 
 ## GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sleepyulloo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sleepyulloo&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sleepyulloo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=sleepyulloo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&cb=1)
 
+![](https://streak-stats.demolab.com/?user=sleepyulloo&theme=tokyonight&hide_border=false&cb=1)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sleepyulloo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cb=1)
 ---
 
 ### Quote
