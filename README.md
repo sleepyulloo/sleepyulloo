@@ -50,11 +50,11 @@
 ---
 
 ## GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sleepyulloo&hide_border=false&include_all_commits=true&count_private=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_color=FFD700&cb=2)
+![](https://github-readme-stats.shion.dev/api?username=sleepyulloo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=141B14&title_color=E0A526&text_color=E8D9B0&icon_color=B33A3A)
 
-![](https://streak-stats.demolab.com/?user=sleepyulloo&hide_border=false&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC&border=FFD700&cb=2)
+![](https://streak-stats.demolab.com/?user=sleepyulloo&theme=vue-dark&hide_border=false&background=141B14&ring=E0A526&fire=B33A3A&currStreakLabel=E0A526&sideLabels=E8D9B0&dates=CCCCCC)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sleepyulloo&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=000000&title_color=FFD700&text_color=FFFFFF&border_color=FFD700&cb=2)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sleepyulloo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=141B14&title_color=E0A526&text_color=E8D9B0)
 ---
 
 ### Quote
