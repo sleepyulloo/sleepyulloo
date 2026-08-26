@@ -52,7 +52,7 @@
 ## GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sleepyulloo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=141B14&title_color=E0A526&text_color=E8D9B0&icon_color=B33A3A)
 
-![](https://streak-stats.demolab.com/?user=sleepyulloo&theme=vue-dark&hide_border=false&background=141B14&ring=E0A526&fire=B33A3A&currStreakLabel=E0A526&sideLabels=E8D9B0&dates=CCCCCC&cb=4)
+![](https://streak-stats.demolab.com/?user=sleepyulloo&theme=vue-dark&hide_border=false&background=141B14&ring=E0A526&fire=B33A3A&currStreakLabel=E0A526&sideLabels=E8D9B0&dates=CCCCCC&cb=5)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sleepyulloo&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=141B14&title_color=E0A526&text_color=E8D9B0)
 
